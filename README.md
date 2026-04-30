@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> ليه بتبعد بهدوء وتنساني
+> وانت يا عمري فرحة زماني
+> نار الشوق بتكوي في روحي
+> بستنى منك تداوي جروحي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
