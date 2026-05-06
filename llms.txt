@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/leh-betba3ed-bel-hodo2/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Music Rights & Licensing for Leh Betba3ed Bel Hodo2](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
