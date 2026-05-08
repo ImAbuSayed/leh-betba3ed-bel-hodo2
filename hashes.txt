@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Leh Betba3ed Bel Hodo2
+
+This log tracks the cryptographic history and versioning for the song **Leh Betba3ed Bel Hodo2** (leh-betba3ed-bel-hodo2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T03:29:20.356500 | `v1` | `eb3002db5c05bf947868c01a2e4f2f166d43a801ef270a2b5a367b70d804c8a6` | `01a238f629dd35e0fd034682e88f72d1d2be975d16b0e9634b540c9aac374c25` | `2026-05-09_leh-betba3ed-bel-hodo2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
